@@ -1,0 +1,11 @@
+div.portrait {
+  border: 3px solid var(--color-fg2);
+  border-radius: 50%;
+  width: var(--portrait-size);
+  height: var(--portrait-size);
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+}

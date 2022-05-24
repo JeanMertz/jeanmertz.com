@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html class="{% if section %}{% if section.relative_path == "_index.md" %}index{% else %}section{% endif %}{% endif %}">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="no-referrer" />
+
+    <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
+    <link rel="stylesheet" href="/style.css" />
+
+    <title>
+      {% if section.title %}
+      Jean Mertz – {{ section.title | title }}
+      {% else %}
+      Jean Mertz
+      {% endif %}
+    </title>
+
+    {% if config.generate_rss %}
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="RSS"
+      href="{{ get_url(path='rss.xml') }}"
+    />
+    {% endif %}
+  </head>
+  <body>
+    {% block body %}
+    <header>
+      <div class="intro">
+        Hi, I’m Jean Mertz 👋
+      </div>
+
+      <div class="byline">
+        I’m a <strong>software engineer</strong> by trade, and a
+        <strong>life-long student</strong> by passion.
+      </div>
+
+      <div class="portrait">
+        <img src="/images/portrait.png" />
+      </div>
+
+      <nav>
+        <ul>
+          <li><a href="/">home</a></li>
+          <li class="sep"></li>
+          <li><a href="/career">résumé</a></li>
+        </ul>
+      </nav>
+
+      <div class="notice">
+        Want to <strong>hire me</strong>? I offer my services as a remote
+        contractor via my consutancy company
+        <a href="https://ethical.engineer">Ethical Engineering</a>.
+      </div>
+
+      <div class="profiles">
+        <a href="mailto:work@jeanmertz.com">&#xe905</a>
+        <a href="https://github.com/JeanMertz">&#xe904</a>
+        <a href="https://twitter.com/jeanmertz">&#xe901</a>
+        <a href="https://youtube.com/RusticGames">&#xe900</a>
+        <a href="https://stackoverflow.com/users/747032/jeanmertz">&#xe906</a>
+        <a href="https://old.reddit.com/user/JeanMertz/">&#xe903</a>
+        <a href="https://linkedin.com/in/jeanmertz43">&#xe902</a>
+      </div>
+    </header>
+    {% endblock body %}
+  </body>
+</html>
