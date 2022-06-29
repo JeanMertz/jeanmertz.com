@@ -191,11 +191,11 @@ more than it seems. Prevention trumps cure, so observability must be a big part
 of your operation to ensure smooth sailing.
 
 As a **Software Engineer** I’ve learnt to build systems as complex as they need
-to be to fullfil their role within a product or organisation, but no more
-complex than that. I’ve learned that every line of code is a liability that
-adds operational costs to an organisation and must therefor be justified to
-exist. Documentation done right is a highly valuable asset to any organisation,
-but done wrong can become an unwelcome time sink.
+to be to fulfil their role within a product or organisation, but no more complex
+than that. I’ve learned that every line of code is a liability that adds
+operational costs to an organisation and must therefor be justified to exist.
+Documentation done right is a highly valuable asset to any organisation, but
+done wrong can become an unwelcome time sink.
 
 As a **Software Architect** I understand that software does not exist in
 a vacuum and must always serve a higher purpose in collaboration with other
@@ -215,7 +215,7 @@ iteration. It must never be allowed to become a reason for not shipping on time.
 
 As an **Engineering Coach** I know that every engineer is a human being with
 needs, personality traits, misfortunes and personal goals. The software running
-the organisation is only as good as the strength and hapiness of your team.
+the organisation is only as good as the strength and happiness of your team.
 Engineers are smart, dedicated and always re-educating themselves, provide in
 that thirst for knowledge, and you have a formula to sustain your most valuable
 assets. Give your best engineers plenty of opportunities to learn from others
@@ -224,7 +224,7 @@ those within your organisation.
 
 As a **Chief Technology Officer** I’ve experienced the importance of the
 collaboration between tech, product, marketing, and operations. All of these
-departments need to work in tandum for an organisation to succeed. None serves
+departments need to work in tandem for an organisation to succeed. None serves
 the other, but all serve the mission and vision of the organisation. A technical
 roadmap is of no value on its own, but must strike a balance between achieving
 technical excellence, and delivering on planned product features.
@@ -232,7 +232,7 @@ technical excellence, and delivering on planned product features.
 As a **Human Being** I know that I want to do good for this world, and want to
 leave it in a better state than I found it. I realise that software – similar to
 other tools – can be used for good and bad, and I choose to only use it for
-good. I am principled in that way, and I do not appologise for that. The mission
+good. I am principled in that way, and I do not apologise for that. The mission
 statement of an organisation matters a great deal, the way the organisation
 lives up to that statement on a day to day basis matters even more.
 
@@ -287,7 +287,7 @@ smaller sized companies going forward.
 ## Current Employer: Datadog
 
 On **February of 2021** Datadog — the worlds [leading][ddleading] observability
-company — [did a talent aqcuisition of one of my clients,
+company — [did a talent acquisition of one of my clients,
 Timber][ddacquisition]. As part of the acquisition, my role changed from
 a contractor at Timber, to a full-time employee at Datadog.
 
@@ -334,7 +334,7 @@ data pipeline product, named **[Vector][]**, written in **Rust**.
 
 ### OneSignal
 
-From **May 2020 – November 2021**, I worked as a contractor for [OneSignal][],
+From **May 2020 – November 2020**, I worked as a contractor for [OneSignal][],
 the market leading self-serve customer engagement solution for Push
 Notifications, Email, SMS & In-App.
 
