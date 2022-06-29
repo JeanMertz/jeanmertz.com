@@ -22,7 +22,7 @@ hello][email]!
    - [Past and Present Roles](#past-and-present-roles)
    - [Personality Traits](#personality-traits)
 2. [Employment History](#employment-history) — Not just who, but _what_ and _why_.
-   - [Current Employer](#current-employer-blendle): Datadog
+   - [Current Employer](#current-employer-datadog): Datadog
    - [Earlier Work](#earlier-work)
 3. [Personal Projects](#personal-projects) — That which I build for education and fun.
 
