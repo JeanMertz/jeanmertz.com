@@ -8,12 +8,12 @@ software architecture, an eye for user experience and a capacity to lead.
 """
 +++
 
-As someone who has hired many people over the past few years, I’ve seen many
-résumés that sum up past experiences, without telling the _story_ of a career.
-If you want a quick glance at my experiences, I’ve got such a résumé for you to
-download [right here][cv] – but if you want to get to _know me_ on
-a professional level, I encourage you to read on. If you are interested, [don’t
-hesitate to say hello][email]!
+As someone who has hired many people in my career, I’ve seen many résumés that
+sum up past experiences, without telling the _story_ of a career. If you want
+a quick glance at my experiences, I’ve got such a résumé for you to download
+[right here][cv] – but if you want to get to _know me_ on a professional level,
+I encourage you to read on. If you are interested, [don’t hesitate to say
+hello][email]!
 
 <br>
 
@@ -22,7 +22,7 @@ hesitate to say hello][email]!
    - [Past and Present Roles](#past-and-present-roles)
    - [Personality Traits](#personality-traits)
 2. [Employment History](#employment-history) — Not just who, but _what_ and _why_.
-   - [Current Employer](#current-employer-blendle): Blendle
+   - [Current Employer](#current-employer-blendle): Datadog
    - [Earlier Work](#earlier-work)
 3. [Personal Projects](#personal-projects) — That which I build for education and fun.
 
@@ -87,6 +87,9 @@ with._
 Go ahead and search the list for whatever term is of interest to you. I don’t
 think it matters too much, as I have enough experience in most software fields
 to be able to pick up new technologies relatively quickly.
+
+In the past three years, I’ve primarily worked with the <strong>Rust</strong>
+programming language, working on low-level systems software.
 
 ### Programming Languages
 
@@ -281,11 +284,70 @@ enterprise-level company in the past, but found out that the working environment
 in such a large company does not suit my style and so I plan on working in
 smaller sized companies going forward.
 
-## Current Employer: Blendle
+## Current Employer: Datadog
 
-**Since January 2015**, I have been a backend-focused software engineer at
-[Blendle][], a scale-up-phase startup leading the charge in modernising the
-distribution of journalism in the internet age.
+On **February of 2021** Datadog — the worlds [leading][ddleading] observability
+company — [did a talent aqcuisition of one of my clients,
+Timber][ddacquisition]. As part of the acquisition, my role changed from
+a contractor at Timber, to a full-time employee at Datadog.
+
+The work I do at Datadog has changed relatively little, compared to my contract
+work at Timber. Most of my time is spent working on the open-source project
+**[Vector][]**, developed using the **Rust programming language**.
+
+More specifically, I am the lead developer of the **[Vector Remap
+Language][vrl]** DSL used to remap observability data in Vector.
+
+In this capacity I have lead an engineering team, written and reviewed [numerous][rfc1]
+[RFCs][rfc2], written [large chunks][code] of the language implementation, and
+initiated the [VRL design document][vrldoc]. In short, I have contributed
+significantly to a programming language that is used by the majority of Vector
+users, which includes many **S&P 500 organisations**.
+
+Given that the code of Vector and VRL is open-source, all of my work is
+**publicly available** in the [online repository][open].
+
+[ddleading]: https://www.datadoghq.com/blog/datadog-apm-observability-gartner-magic-quadrant-2022/
+[ddacquisition]: https://www.datadoghq.com/blog/datadog-acquires-timber-technologies-vector/
+[vector]: https://vector.dev/
+[vrl]: https://vrl.dev/
+[rfc1]: https://github.com/vectordotdev/vector/blob/78b0a76c8826d62ad71a2b323e27dbb3b322ed09/rfcs/2021-08-29-8381-vrl-iteration-support.md
+[rfc2]: https://github.com/vectordotdev/vector/blob/78b0a76c8826d62ad71a2b323e27dbb3b322ed09/rfcs/2020-11-02-remap-language-compile-time-type-checking-v1.md
+[code]: https://github.com/vectordotdev/vector/pull/6353
+[open]: https://github.com/vectordotdev/vector/commits?author=JeanMertz
+[vrldoc]: https://github.com/vectordotdev/vector/blob/78b0a76c8826d62ad71a2b323e27dbb3b322ed09/lib/vrl/DESIGN.md
+
+## Earlier Work
+
+### Timber
+
+From **January 2020 – January 2021**, I worked as a contractor for [Timber][],
+a start-up company changing the way that other developers use logs.
+
+In the first six months, I mostly worked on an internal log management tool,
+written in **Golang** and **Typescript**, using **React** and **GraphQL**.
+
+Later, I switched roles to work on an open-source high-performance observability
+data pipeline product, named **[Vector][]**, written in **Rust**.
+
+[Timber]: https://timber.io/about/
+
+### OneSignal
+
+From **May 2020 – November 2021**, I worked as a contractor for [OneSignal][],
+the market leading self-serve customer engagement solution for Push
+Notifications, Email, SMS & In-App.
+
+At OneSignal, I worked as a senior **Site Reliability Engineer** working in both
+**Golang** and **Rust**.
+
+[OneSignal]: https://onesignal.com/about
+
+### Blendle
+
+From **January 2015 – January 2020**, I worked at [Blendle][], a scale-up-phase
+startup leading the charge in modernising the distribution of journalism in the
+internet age.
 
 As a **Software Engineer** (January 2015 – February 2016) I joined a small team
 of engineers that started the company, working on rapid iterations of our
@@ -341,7 +403,7 @@ As the **Chief Technical Officer** (February 2016 – January 2019), I:
 [close contact with our partners]: https://twitter.com/AWSonAir/status/735018625019617280
 [privacy & security officer]: https://www.koenrouwhorst.nl/
 
-As a **Lead Software Engineer** (January 2019 – present), I:
+As a **Lead Software Engineer** (January 2019 – January 2020), I:
 
 - conducted numerous in-depth multi-hour interviews with candidates to **find the
   right person to replace me** as the [CTO of Blendle][],
@@ -364,8 +426,6 @@ Throughout my journey from engineer to CTO and back to engineer, I have found
 a balanced combination of passion and dedication for the craft of software
 engineering combined with my natural talent and enjoyment of helping others grow
 and leading teams and projects. Merging both disciplines in a balanced manner.
-
-## Earlier Work
 
 ### Software Engineer Consultant, ASM Lithography (ASML)
 
