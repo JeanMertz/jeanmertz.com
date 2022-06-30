@@ -22,7 +22,7 @@ hello][email]!
    - [Past and Present Roles](#past-and-present-roles)
    - [Personality Traits](#personality-traits)
 2. [Employment History](#employment-history) — Not just who, but _what_ and _why_.
-   - [Current Employer](#current-employer-datadog): Datadog
+   - [Current Employer/Client](#current-employer-client-datadog): Datadog
    - [Earlier Work](#earlier-work)
 3. [Personal Projects](#personal-projects) — That which I build for education and fun.
 
@@ -284,7 +284,7 @@ enterprise-level company in the past, but found out that the working environment
 in such a large company does not suit my style and so I plan on working in
 smaller sized companies going forward.
 
-## Current Employer: Datadog
+## Current Employer/Client: Datadog
 
 On **February of 2021** Datadog — the worlds [leading][ddleading] observability
 company — [did a talent acquisition of one of my clients,
