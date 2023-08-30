@@ -8,23 +8,26 @@ software architecture, an eye for user experience and a capacity to lead.
 """
 +++
 
-As someone who has hired many people in my career, I’ve seen many résumés that
-sum up past experiences, without telling the _story_ of a career. If you want
-a quick glance at my experiences, I’ve got such a résumé for you to download
+As someone who has hired many people in my career, I’ve seen many résumé that
+sum up experiences, without telling the _story_ of a career. If you want a
+quick glance at my experiences, I’ve got such a résumé for you to download
 [right here][cv] – but if you want to get to _know me_ on a professional level,
 I encourage you to read on. If you are interested, [don’t hesitate to say
 hello][email]!
 
 <br>
 
+<!--toc:start-->
+
 1. [About Me](#about-me) — My personal experiences and lessons learned.
    - [Skills and Technologies](#skills-and-technologies)
    - [Past and Present Roles](#past-and-present-roles)
    - [Personality Traits](#personality-traits)
 2. [Employment History](#employment-history) — Not just who, but _what_ and _why_.
-   - [Current Employer/Client](#current-employer-client-datadog): Datadog
+   - [Current Status: Open for New Opportunities as of August 2023](#current-status-open-for-new-opportunities-as-of-august-2023)
    - [Earlier Work](#earlier-work)
 3. [Personal Projects](#personal-projects) — That which I build for education and fun.
+<!--toc:end-->
 
 <br>
 
@@ -44,12 +47,12 @@ management, CPU registers, cache lines, network packets and file descriptors to
 develop for resource-constrained environments.
 
 I get **excited by any opportunity to optimize processes** within an
-organisation either by automating that which can be automated, by applying UX
+organization either by automating that which can be automated, by applying UX
 improvements to systems that are operated by other humans, or by streamlining
 processes such as communication flows, team compositions and removing
 unnecessary red tape.
 
-I **thrive in a flat organisation** that values high impact contributions by all
+I **thrive in a flat organization** that values high impact contributions by all
 employees. I have a breadth of knowledge with a work ethic that allows me to be
 self-regulated and trusted in _doing the right thing_. Conversely, I don’t do
 well in constrained single-purpose roles that allow for little experimentation
@@ -57,7 +60,7 @@ and have a highly regulated work regime.
 
 I am a **skilled communicator with managerial experience** and a feeling for
 user experience which allows me to bridge the gap between different units within
-an organisation. I enjoy coaching my peers and get _fuzzy feelings_ when I can
+an organization. I enjoy coaching my peers and get _fuzzy feelings_ when I can
 make a small contribution to the growth of others.
 
 I am an **avid learner** of a diverse set of fields, such as software
@@ -89,7 +92,7 @@ think it matters too much, as I have enough experience in most software fields
 to be able to pick up new technologies relatively quickly.
 
 In the past three years, I’ve primarily worked with the <strong>Rust</strong>
-programming language, working on low-level systems software.
+programming language, working on low-level systems-software.
 
 ### Programming Languages
 
@@ -157,7 +160,7 @@ Communication,
 Conflict management,
 Creativity,
 Critical thinking,
-Decision making,
+Decision-making,
 Desire to learn,
 Flexibility,
 Focus,
@@ -183,58 +186,58 @@ of the customer. What might be obvious to you is not always obvious to others,
 and your software should reflect the diverse world we live in, serving both able
 and impaired people from all walks of life.
 
-As a **Site Reliability Engineer** I know that _trust_ in your organisation is
+As a **Site Reliability Engineer** I know that _trust_ in your organization is
 the most valuable relationship you can have with your customers. Trust can be
 lost in a short timespan, but takes many more cycles to regain. The stability of
 the systems your business operates on is of critical importance, and is worth
 more than it seems. Prevention trumps cure, so observability must be a big part
 of your operation to ensure smooth sailing.
 
-As a **Software Engineer** I’ve learnt to build systems as complex as they need
-to be to fulfil their role within a product or organisation, but no more complex
-than that. I’ve learned that every line of code is a liability that adds
-operational costs to an organisation and must therefor be justified to exist.
-Documentation done right is a highly valuable asset to any organisation, but
-done wrong can become an unwelcome time sink.
+As a **Software Engineer** I’ve learned to build systems as complex as they
+need to be to fulfil their role within a product or organization, but no more
+complex than that. I’ve learned that every line of code is a liability that
+adds operational costs to an organization and must therefor be justified to
+exist. Documentation done right is a highly valuable asset to any organization,
+but done wrong can become an unwelcome time sink.
 
 As a **Software Architect** I understand that software does not exist in
 a vacuum and must always serve a higher purpose in collaboration with other
-systems, both internal and external to the organisation. The whole of these
-systems must be in-tune or risk slowing down the speed at which an organisation
+systems, both internal and external to the organization. The whole of these
+systems must be in-tune or risk slowing down the speed at which an organization
 can iterate. A ubiquitous language surrounding the domain models used throughout
-the organisation is a highly valuable asset that warrants significant
+the organization is a highly valuable asset that warrants significant
 intellectual investments.
 
-As a **Technical Lead** I realise that delivering a successful product is the
+As a **Technical Lead** I realize that delivering a successful product is the
 result of a combination of short bursts of intense periods of activity spread
 out over a longer period of time. Sprints are needed to make sure you meet your
 short-term goals while never losing sight of the clarity and planning needed for
-a sustainable long-term marathon. Technical debt is part of every organisation,
+a sustainable long-term marathon. Technical debt is part of every organization,
 and must be paid off at a constant pace, to not drag down the speed of
 iteration. It must never be allowed to become a reason for not shipping on time.
 
 As an **Engineering Coach** I know that every engineer is a human being with
 needs, personality traits, misfortunes and personal goals. The software running
-the organisation is only as good as the strength and happiness of your team.
+the organization is only as good as the strength and happiness of your team.
 Engineers are smart, dedicated and always re-educating themselves, provide in
 that thirst for knowledge, and you have a formula to sustain your most valuable
 assets. Give your best engineers plenty of opportunities to learn from others
-outside your organisation, while allocating their time wisely to help them teach
-those within your organisation.
+outside your organization, while allocating their time wisely to help them teach
+those within your organization.
 
 As a **Chief Technology Officer** I’ve experienced the importance of the
 collaboration between tech, product, marketing, and operations. All of these
-departments need to work in tandem for an organisation to succeed. None serves
-the other, but all serve the mission and vision of the organisation. A technical
+departments need to work in tandem for an organization to succeed. None serves
+the other, but all serve the mission and vision of the organization. A technical
 roadmap is of no value on its own, but must strike a balance between achieving
 technical excellence, and delivering on planned product features.
 
 As a **Human Being** I know that I want to do good for this world, and want to
-leave it in a better state than I found it. I realise that software – similar to
+leave it in a better state than I found it. I realize that software – similar to
 other tools – can be used for good and bad, and I choose to only use it for
-good. I am principled in that way, and I do not apologise for that. The mission
-statement of an organisation matters a great deal, the way the organisation
-lives up to that statement on a day to day basis matters even more.
+good. I am principled in that way, and I do not apologize for that. The mission
+statement of an organization matters a great deal, the way the organization
+lives up to that statement on a day-to-day basis matters even more.
 
 ## Personality Traits
 
@@ -267,7 +270,7 @@ or questionable about myself_
 - I strongly dislike advertisements and instead pay for software, content and
   services whenever possible.
 - I have a light case of ”[benign essential tremor][]”, it does not impact my life
-  in a significant way, other than I will never beat you at a game of [wire
+  significantly, other than I will never beat you at a game of [wire
   loop][].
 - I like to [read educational books][] (and writing down what I learn)
 
@@ -280,13 +283,40 @@ or questionable about myself_
 # Employment History
 
 I’ve mostly worked at startup and small-size companies. I’ve worked for one
-enterprise-level company in the past, but found out that the working environment
-in such a large company does not suit my style and so I plan on working in
-smaller sized companies going forward.
+enterprise-level company in the past, but found out that the working
+environment in such a large company does not suit my style, and so I plan on
+working in smaller sized companies going forward.
 
-## Current Employer/Client: Datadog
+## Current Status: Open for New Opportunities as of August 2023
 
-On **February of 2021** Datadog — the worlds [leading][ddleading] observability
+As of **August 2023**, my engagement with Grafbase is coming to a successful
+close, opening up availability for new client projects. I'm currently in the
+process of exploring new opportunities.
+
+This page will be updated as soon as I embark on a new project with an exciting
+tech stack.
+
+## Earlier Work
+
+### Grafbase:
+
+In **April 2023**, I shifted from a role at Datadog to resume my freelancing
+and consulting career. As a contractor with the Grafbase team, I contributed to
+the development of edge-based GraphQL servers, primarily leveraging Rust and
+compiling the code to WebAssembly.
+
+During my stint at Grafbase, I:
+
+- Built a [GraphQL connector][], allowing to unify existing GraphQL APIs at the
+  edge with Grafbase,
+- improved the RFC process for the team to better plan for features,
+- lead an (ongoing) project to open-source parts of Grafbase's tech stack.
+
+[GraphQL connector]: https://grafbase.dev/changelog/graphql-connector
+
+### Datadog:
+
+On **February 2021** Datadog — the world's [leading][ddleading] observability
 company — [did a talent acquisition of one of my clients,
 Timber][ddacquisition]. As part of the acquisition, my role changed from
 a contractor at Timber, to a full-time employee at Datadog.
@@ -302,7 +332,7 @@ In this capacity I have lead an engineering team, written and reviewed [numerous
 [RFCs][rfc2], written [large chunks][code] of the language implementation, and
 initiated the [VRL design document][vrldoc]. In short, I have contributed
 significantly to a programming language that is used by the majority of Vector
-users, which includes many **S&P 500 organisations**.
+users, which includes many **S&P 500 organizations**.
 
 Given that the code of Vector and VRL is open-source, all of my work is
 **publicly available** in the [online repository][open].
@@ -316,8 +346,6 @@ Given that the code of Vector and VRL is open-source, all of my work is
 [code]: https://github.com/vectordotdev/vector/pull/6353
 [open]: https://github.com/vectordotdev/vector/commits?author=JeanMertz
 [vrldoc]: https://github.com/vectordotdev/vector/blob/78b0a76c8826d62ad71a2b323e27dbb3b322ed09/lib/vrl/DESIGN.md
-
-## Earlier Work
 
 ### Timber
 
@@ -364,7 +392,7 @@ our exponential growth. In this role, I:
 - [led the transition][] to a cloud-native **Kubernetes-based infrastructure**
   stack,
 
-- focussed on optimising our communication and **[automating][]** that which could,
+- focussed on optimizing our communication and **[automating][]** that which could,
 
 - took on the role of **scrum lead** in several projects,
 
@@ -388,7 +416,7 @@ our exponential growth. In this role, I:
 
 As the **Chief Technical Officer** (February 2016 – January 2019), I:
 
-- was responsible for the **engineering team** and the software stack,
+- Was responsible for the **engineering team** and the software stack,
 - collaborated in our [hiring efforts],
 - helped our engineers grow by coaching them and helping them in their
   **personal development plans**,
@@ -405,9 +433,9 @@ As the **Chief Technical Officer** (February 2016 – January 2019), I:
 
 As a **Lead Software Engineer** (January 2019 – January 2020), I:
 
-- conducted numerous in-depth multi-hour interviews with candidates to **find the
+- Conducted numerous in-depth multi-hour interviews with candidates to **find the
   right person to replace me** as the [CTO of Blendle][],
-- **re-found my passion** and refocussed my efforts on being actively involved
+- **re-found my passion** and refocused my efforts on being actively involved
   in software engineering and architecture,
 - stayed involved in non-technical duties such as the hiring process,
 - collaborated with the product teams on **software architecture decisions**,
